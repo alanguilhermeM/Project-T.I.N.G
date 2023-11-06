@@ -19,4 +19,3 @@ def txt_importer(path_file):
             linhas_do_arquivo.append(linha.strip())
 
     return linhas_do_arquivo
-# print(txt_importer('statics/arquivo_teste.txt'))

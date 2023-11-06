@@ -23,3 +23,7 @@ class Queue(AbstractQueue):
             raise IndexError("Índice Inválido ou Inexistente")
 
         return self.queue[index]
+
+
+# instance = Queue()
+# print(instance.__len__())
