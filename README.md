@@ -1,10 +1,13 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+Neste projeto você foi implementado um programa que simula um algoritmo de indexação de documentos similar ao do Google.
+O programa desenvolvido tem dois módulos:
+
+Módulo de gerenciamento de arquivos que permite anexar arquivos de texto (formato TXT) e;
+Módulo de buscas que permite operar funções de busca sobre os arquivos anexados.
+
+<h2>Habilidades exercitadas:</h2>
+<ul>
+  <li>Manipular Pilhas</li>
+  <li>Manipular Deque</li>
+  <li>Manipular Nó & Listas Ligadas e</li>
+  <li>Manipular Listas Duplamente Ligadas</li>
+</ul>
